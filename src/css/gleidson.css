@@ -1,0 +1,31 @@
+.m-card {
+
+}
+
+.m-card-image {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px #00000025;
+    padding: 0 26px;
+}
+
+.m-card-image img {
+    display: block;
+    width: 100%;
+    /* mix-blend-mode: ; */
+}
+
+#m-produtos .m-card-image .m-badge {
+    line-height: 30px;
+    padding: 0 16px;
+    background-color: #E7FF86;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+@media 720px {
+
+}
